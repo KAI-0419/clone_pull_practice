@@ -1,0 +1,148 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.navbar-expand-lg{
+    width: 100vw;
+}
+
+.navbar {
+    background-color: rgba(10, 243, 10, 0.144);
+}
+
+.brand {
+    font-size: 30px;
+    font-weight: 700;
+    margin-right: 6rem;
+}
+
+.fa-bars {
+    color: rgba(168, 168, 29, 0.521);
+}
+
+.wrapper {
+    background-image: linear-gradient(to bottom, black, 20%, rgba(191, 191, 191, 0.3)), url("./popopo.png");
+    background-repeat: no-repeat;
+    background-size: 165% 100%;
+    background-position: 100%;
+}
+
+.img-fluid {
+    width: 100%;
+}
+
+.form-control {
+    border-radius: 20px;
+    border: 2px solid rgba(168, 168, 29, 0.521);
+}
+
+.emoji {
+    color: rgba(168, 168, 29, 0.521);;
+}
+
+.nav-link {
+    color: rgba(168, 168, 29, 0.521);
+}
+
+.carousel {
+    width: 30%;
+    background: #fff;
+    box-shadow: 0 10px 15px rgb(0 0 0 / 10%);
+    border-radius: 40px;
+    padding-bottom: 25px;
+}
+
+.carousel-caption {
+    margin-left: 50px;
+    position: relative;
+    left: 0;
+    color: black;
+    margin-top: 40px;
+}
+
+.text {
+    font-size: 16px;
+    font-weight: 300;
+    font-family: 'Noto Sans KR', sans-serif;
+    text-align: left;
+}
+
+.title {
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    font-family: 'Noto Sans KR', sans-serif;
+    text-align: left;
+
+}
+
+.cat {
+    margin-top: 5rem;
+    margin-bottom: 2rem;
+    text-align: left;
+    font-size: 40px;
+    font-weight: 700;
+    color: #000;
+}
+
+.sort {
+    margin-bottom: 10rem;
+}
+
+.disc {
+    font-size: 15px;
+    font-weight: 600;
+    color: red;
+}
+
+.card-text {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.card a {
+    text-decoration: none;
+}
+
+.card-title {
+    color: black;
+}
+
+.card-text {
+    color: black;
+    
+}
+
+.company {
+    color: #333;
+    font-weight: bold;
+}
+
+.name {
+    color: rgba(168, 168, 29, 0.521);
+}
+
+.call {
+    color: #333;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.wrap {
+    width: 100vw;
+    background-color: rgba(10, 243, 10, 0.144);
+    align-items: center;
+}
+
+.footer-main {
+    align-items: center;
+}
+
+.sort-3 {
+    margin-bottom: 20rem;
+}
+
+.company-com {
+    font-weight: 700;
+}
