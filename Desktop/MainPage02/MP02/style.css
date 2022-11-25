@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+
+header{
+    background-color: #333;
+    height: 44px;
+    border-bottom: 2px solid #550065;
+}
+
+.nav-menu {
+    margin: 0 20% 0 20%;
+    height: 44px;
+    max-width: 980px;
+    position: relative;
+    bottom: 0px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav-menu a {
+    font-size: 12px;
+    line-height: 3.66667;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    color: #f5f5f7;
+    position: relative;
+    z-index: 1;
+    display: inline-block;
+    padding: 0 8px;
+    height: 44px;
+    opacity: .8;
+    background: no-repeat;
+    text-decoration: none;
+    white-space: nowrap;
+    -webkit-transition: opacity 0.3s cubic-bezier(0.25, 0.1, 0.25, 1);
+    transition: opacity 0.3s cubic-bezier(0.25, 0.1, 0.25, 1);
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    outline-offset: -7px;
+}
+
+.material-symbols-outlined {
+    color: #f5f5f7;
+    line-height: 1.66667;
+}
+
+.d-block {
+    width: 100%;
+    height: 850px;
+}
+
+.footer-wrap {
+    width: auto;
+    height: fit-content;
+    background-color: #550065;
+}
+
+.social-media {
+    color: #f5f5f7;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer-logo {
+   
+}
+
+.brands {
+    line-height: 2.66667;
+}
+
+.fa-brands {
+   margin-right: 3rem;
+}
+
+.footer-letter {
+    
+    line-height: 2.66667;
+    position: relative;
+    left: 7rem;
+}
+
+.footer-last {
+    color: #f5f5f7;
+    display: flex;
+    justify-content: space-around;
+}
+
+.rules span {
+   margin-right: 30px;
+   font-size: 15px;
+}
+
+.cpyt {
+    font-size: 0.75rem;
+}
